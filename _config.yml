@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kamal Sharma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Quantum simulations, Condensed matter theory, Low-dimensional physics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
