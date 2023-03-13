@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Kamal Sharma, Ph.D., 
 twitter_username: kammyuce
 github_username: sharma-kamal
-minimal_mistakes_skin: "neon" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
