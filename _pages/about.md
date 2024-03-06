@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a theoretical physicist conducting postdoctoral research at Texas Tech University in Lubbock, TX. My research is in the area of quantum simulations on superconducting circuits, quantum many-body phenomena and quantum information. <!--My current work proposes a method to readout quantum correlations from a superconducting circuit.--> Additionally, I am also interested in non-linear dynamical systems and quantum optics. 
+I am a theoretical physicist in the area of quantum simulations on superconducting circuits, quantum many-body phenomena and quantum information. <!--My current work proposes a method to readout quantum correlations from a superconducting circuit.-->  
 
 Before getting into Physics, I got my B. Tech. in Civil Engineering from Indian Institute of Technology, Roorkee (India). After a short stint as a visiting student learning Physics at the Raman Research Institute, Bangalore, I started my grad school at Georgia Institute of Technology, Atlanta. <!--My doctoral research investigated [one-dimensional many-body quantum systems](https://smartech.gatech.edu/handle/1853/62339).-->
 
