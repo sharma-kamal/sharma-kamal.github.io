@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum vitae
 nav: true
 nav_order: 4
-cv_pdf: Sharma_cvpdf.pdf
+# cv_pdf: Sharma_cvpdf.pdf
 ---

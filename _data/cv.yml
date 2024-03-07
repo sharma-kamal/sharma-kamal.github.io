@@ -8,40 +8,19 @@
     - name: Languages
       value: English, Hindi
 
-- title: Education
-  type: time_table
-  contents:
-    - title: MS,PhD
-      institution: Georgia Institute of Techonology, Atlanta, GA
-      year: 2019
-      description:
-        - Transport in low-dimensional interacting systems.
-        - Low-dimensional quantum physics, Many-body physics, Non-linear dynamics
-        # - Teaching assistant and PhD candidate
-        # - title: 
-          # contents:
-          #   - Courses taught = Classical Mechanics, Quantum Mechanics,  Electricity and Magnetism, Quantum Computing.
-            # - Sub-description 2.
-    - title: Bachelor of Technology
-      institution: Indian Institute of Technology, Roorkee, India
-      year: 2009
-      description:
-        - Civil Engineering.
-        # - Description 2.
-
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Associate
       institution: Dept. of Physics & Astronomy, Texas Tech University, Lubbock, TX
-      year: 2021-present
+      year: 2021-2023
       description:
-        - Measuring correlations in quantum simulations performed on superconducting circuits.
-        - Light and Matter 
+        - Quantum correlations in superconducting quantum circuits.
+        - Light and matter coupling.
         - Coupling between a one-dimensional electron system and light in an optical cavity.
           # contents:
-            # - Sub-description 1.
-            # - Sub-description 2.
+          #   - Sub-description 1.
+          #   - Sub-description 2.
     # - title: Visiting Professor
     #   institution: California Institute of Technology, Pasadena, California, US
     #   year: 1933
@@ -58,10 +37,33 @@
             # - Sub-description 1.
             # - Sub-description 2.
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. - Theoretical Condensed Matter Physics 
+      institution: Georgia Institute of Techonology, Atlanta, GA
+      year: 2019
+      description:
+        - Transport in low-dimensional interacting systems.
+        - Low-dimensional quantum physics, Many-body physics, Non-linear dynamics
+        # - Teaching assistant and PhD candidate
+        # - title: 
+          # contents:
+          #   - Courses taught = Classical Mechanics, Quantum Mechanics,  Electricity and Magnetism, Quantum Computing.
+            # - Sub-description 2.
+    - title: Bachelor of Technology - Civil Engineering
+      institution: Indian Institute of Technology, Roorkee, India
+      year: 2009
+      # description:
+        # - Civil Engineering.
+        # - Description 2.
+
+
+
     - title: Graduate Teaching Assistant
       year: 2020 - 2021
       description:
-         - Courses taught = Classical Mechanics, Quantum Mechanics,  Electricity and Magnetism, Quantum Computing.
+         - Classical Mechanics, Quantum Mechanics,  Electricity and Magnetism, Quantum Computing.
 
 
     # - title: Visiting Professor
@@ -103,13 +105,14 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Theoretical condensed matter physics - non-equilibrium systems, many-body physics.
-      # items: 
-      #   - Low-dimensional many-body physics.
-      #   - Description 2.
+
+# - title: Research Areas
+#   type: time_table
+#   contents:
+#     - title: Theoretical condensed matter physics - non-equilibrium systems, many-body physics.
+#       items: 
+#         - Low-dimensional many-body physics.
+    #     - Description 2.
     # - title: Topic 2.
     #   items:
     #     - Description 1.
@@ -119,3 +122,34 @@
 #   type: list
 #   contents:
 #     - <u>Hobbies:</u> Musics, Movies, etc.
+
+# - title: Software
+#   type: nested_list
+#   contents:
+#     # - year: 1921
+#       items: 
+#         - Wolfram Mathematica 
+#         - Python
+#         - MATLAB
+# #     - year: 2029
+# #       items: 
+# #         - Max Planck Medal
+
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+- title: Tools
+  type: list
+  contents:
+    - <u>Interests:</u> Quantum mechanics, Many-body theory, Condensed Matter Physics, Non-equilibrium Physics, Quantum Optics, Superconducting Circuits. 
+    - <u>Software Packages:</u>   Wolfram Mathematica, Python (QuTIP, QuCAT), MATLAB.
