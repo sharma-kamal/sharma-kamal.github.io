@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # address: >
   #   <p>Department of Physics and Astronomy</p>
   #   <p>Texas Tech University</p>
